@@ -3,7 +3,7 @@
 #### About me
 
 ```Kotlin
-var oldlullaby = developer {
+var rymmax = developer {
     about {
         name = "Maksim Parfenenka"
         company = null
