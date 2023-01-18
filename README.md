@@ -24,7 +24,7 @@ I like working in such perspective and fast-moving fields of IT as Machine Learn
 At this time I have a quite few but significant projects:</br>
 
   - 💵 [NLP Documents Research](https://github.com/rymmax/nlp-documents-research) 🔭 
-    - My personal project of using NLP to classify and summarize quantitative finance research papers.
+    - My personal project of using NLP to classify and summarize quantitative finance research papers. I've developed a research paper classification engine based on weakly supervised NLP technique to build a classifier of finance documents.
 
   - ✨ [The Belarusian Voice Assistant](https://github.com/rymmax/be-voice-assistant) 🇧🇾
     - It's probably the most important project for me since I have always been burning with the idea of creating and using neural networks to develop the culture of my country, that's why I decided to create this project, which later became a reference point in my comprehension of the ML&AI field.</br>
