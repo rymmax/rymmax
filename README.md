@@ -5,7 +5,7 @@
 ```Kotlin
 var oldlullaby = developer {
     about {
-        name = "Maksim Parfianienka"
+        name = "Maksim Parfenenka"
         company = null
         role = null
     }
